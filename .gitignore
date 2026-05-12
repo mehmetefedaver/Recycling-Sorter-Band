@@ -13,7 +13,7 @@ ENV/
 pip-log.txt
 .pytest_cache/
 tempCodeRunnerFile.py
-# YOLO Ağırlık ve Log Dosyaları (Github'ı şişirmesin)
+# YOLO Ağırlık ve Log Dosyaları
 *.pt
 runs/
 yolov8n.pt
